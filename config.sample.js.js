@@ -1,0 +1,3 @@
+const CONFIG = {
+    API_KEY: 'PASTE_YOUR_PIXABAY_KEY_HERE'
+};
